@@ -265,7 +265,7 @@ Refresh 토큰 관리에서는 보안과 성능을 고려하여 Redis와 쿠키�
 
 <br>
 
-### Spring Batch와 Redis를 활용한 동시성 이슈 로직 처리
+### Spring Batch & Redis를 활용한 동시성 이슈 로직 처리
 
 SNS 기능 중 하나인 좋아요 기능의 동시성 처리를 위해 낙관적 락, 비관적 락, 그리고 Redis의 성능을 JMeter를 사용해 비교해보았습니다.
 
